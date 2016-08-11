@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Research"
+    url: https://jonbra.github.io/research/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Blog"
+    url: https://jonbra.github.io/blog/
+
+  - title: "Publications"
+    url: https://jonbra.github.io/publications/
+
+  - title: "Talks"
+    url: /collection-archive/
