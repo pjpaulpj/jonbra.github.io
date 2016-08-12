@@ -192,7 +192,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _pages
+  # _publications
   - scope:
       path: ""
       type: publications
