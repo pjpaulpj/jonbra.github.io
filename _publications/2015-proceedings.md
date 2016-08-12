@@ -15,7 +15,7 @@ gallery:
     alt: "co-expression module"
 ---
 
-**Bråte, J**., Adamski, M., Neumann, S. R., Shalchian-Tabrizi, K. and Adamska, M. 2015. Regulatory RNA at the root of animals: dynamic expression of developmental lincRNAs in the calcisponge *Sycon ciliatum*. *Proc. Royal. Soc. B*. [doi:10.1098/rspb.2015.1746](http://rspb.royalsocietypublishing.org/content/282/1821/20151746)
+**Bråte, J**., Adamski, M., Neumann, S. R., Shalchian-Tabrizi, K. and Adamska, M. 2015. *Proc. Royal. Soc. B*. [doi:10.1098/rspb.2015.1746](http://rspb.royalsocietypublishing.org/content/282/1821/20151746)
 
 Here we identified and studied the expression of long intergenic non-coding RNAs (lincRNAs) during embryogenesis of the calcareous sponge *Sycon ciliatum*. This was one of the first studies to use *in situ* hybridization to visualize the expression of lincRNAs. 
 
