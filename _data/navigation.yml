@@ -4,10 +4,10 @@ main:
     url: https://jonbra.github.io/research/
 
   - title: "Blog"
-    url: https://jonbra.github.io/blog/
+    url: /blog/
 
   - title: "Publications"
     url: https://jonbra.github.io/publications/
 
-  - title: "Talks"
+  - title: "Talks and media"
     url: /talks/
