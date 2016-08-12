@@ -4,7 +4,7 @@ excerpt: "Developmental expression of lincRNAs in the sponge *Sycon ciliatum*"
 header:
   teaser: proceedings_figure2.jpg
 gallery:
-  - url: proceedings_pipeline.jp
+  - url: proceedings_pipeline.jpg
     image_path: proceedings_pipeline.jpg
     alt: "lincRNA pipeline"
   - url: proceedings_figure2.jpg
