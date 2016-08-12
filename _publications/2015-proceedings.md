@@ -15,10 +15,10 @@ gallery:
     alt: "co-expression module"
 ---
 
-[link to paper](http://rspb.royalsocietypublishing.org/content/282/1821/20151746)
+**Bråte, J**., Adamski, M., Neumann, S. R., Shalchian-Tabrizi, K. and Adamska, M. 2015. Regulatory RNA at the root of animals: dynamic expression of developmental lincRNAs in the calcisponge *Sycon ciliatum*. *Proc. Royal. Soc. B*. [doi:10.1098/rspb.2015.1746](http://rspb.royalsocietypublishing.org/content/282/1821/20151746)
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Here we identified and studied the expression of long intergenic non-coding RNAs (lincRNAs) during embryogenesis of the calcareous sponge *Sycon ciliatum*. This was one of the first studies to use *in situ* hybridization to visualize the expression of lincRNAs. 
 
 {% include gallery caption="Selected figures from the paper." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Link to the paper on [Kudos](https://www.growkudos.com/publications/10.1098%252Frspb.2015.1746)
