@@ -8,7 +8,7 @@ feature_row:
     url: "/research/"
     btn_label: "Read More"
   - title: "Recent posts"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever! Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    excerpt: "[Svampene tar tilbake førsteplassen](https://github.com/jonbra/jonbra.github.io/blob/master/_posts/2016-01-06-svampene-tar-tilbake-f%C3%B8rsteplassen.md)"
     url: "/blog/"
     btn_label: "Read More"
 ---
