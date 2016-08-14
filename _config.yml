@@ -164,11 +164,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-collections:
   publications:
     output: true
     permalink: /:collection/:path/
-    collections:
   testfolder:
     output: true
     permalink: /:collection/:path/
