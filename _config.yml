@@ -167,9 +167,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  testfolder:
-    output: true
-    permalink: /:collection/:path/
 
     
 # Defaults
