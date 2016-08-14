@@ -39,10 +39,12 @@ Og det er her studien til Xie og vennene hans kommer inn: de har klart å vise h
 Hvordan kan de si dette? Jo, de finner forløpere til disse genene også i arvestoffet til våre nærmeste slektninger, menneskeapene. Men her er ikke disse genene skrevet på proteinspråket enda. De er altså ikke protein-dannende gener hos menneskeapene, men de kopieres allikevel til RNA. Et sted på veien fra ape til menneske har så disse bitene fått de rette endringene slik at oppskriften gir et korrekt protein.  
   
 
+
 **Hvorfor kopiere tull?** Men hvordan kan dette ha seg? Hvorfor bruker menneskeapene energi på å kopiere opp deler av arvestoffet som bare er tull?
 
 For å forstå dette må vi ta en rask tur tilbake til det som populært omtales som søppel-DNA. Et stort mysterium i biologien er hvorfor arvestoffet vårt består av så mye som ikke er gener. Bare 1% av innholdet i kokeboken vår utgjør oppskrifter på proteiner. Resten er tilsynelatende bare tull - eller [søppel-DNA](https://en.wikipedia.org/wiki/Junk_DNA#Junk_DNA). Dette er litt rart for den naturlige seleksjonen har ikke for vane å la unyttige og energikrevende elementer passere. Men det vi har blitt klar over den siste tiden er at det meste av dette søppelet faktisk kopieres til RNA (noe av dette RNAet vet vi også har en funksjon, mens det aller meste av det aner vi ikke hvorfor kroppen gidder bry seg med).  
   
+
 
 **Foreldreløse gener kan gi unike egenskaper**. Hva betyr det så at gener kanskje i større grad enn vi har trodd kan oppstå *de novo*? Nye arter oppstår fra eksisterende arter, og de aller fleste gener oppstår fra eksisterende gener. Dette betyr at arter som er i slekt naturligvis vil ligne på hverandre og dele de fleste egenskapene. Dette betyr også at evolusjonen har et begrenset rom den kan operere i, den kan bare leke med de klossene den allerede har i lekekassa. Dette betyr ikke at endringer ikke finner sted, bare at det er en sakte og trinnvis prosess.
 
@@ -50,6 +52,7 @@ Men når et gen oppstår fra scratch kan dette åpne for helt nye muligheter og 
 
 Faktisk er det slik at flere av de foreldreløse genene som er funnet nettopp gir arter unike egenskaper og skiller de fra deres slektninger. For eksempel neslecellene som bare finnes hos nesledyrene (de cellene som gjør at brennmaneter brenner) dannes av gener som man tror oppstod bare i denne dyregruppen. Og hos oss mennesker har man funnet at flere gener som er unike for oss er høyt uttrykt i hjernen, og kan dermed være noe av grunnen til at vi har så høyt utviklede hjerner.  
   
+
 
 **Større spillerom for evolusjonen**. Så hvis gener i mye større grad enn man har trodd tidligere kan oppstå de novo betyr dette kanskje også at evolusjonen har et litt større spillerom enn det man har trodd tidligere. Og råmaterialet til disse genene kan vise seg å finnes i de delene av kokeboka vår som enda ikke gir noe mening.  
 
