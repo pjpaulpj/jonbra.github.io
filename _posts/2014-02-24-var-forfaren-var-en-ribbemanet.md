@@ -24,26 +24,26 @@ Men nå viser det seg altså at det var ribbemanetene som utviklet seg først og
 ![monosiga][1]  
 *Figur 1. Krageflagellaten Monosiga brevicollis. Dyrenes nærmeste slektning. wikipedia.org*
 
-**Hva har vært problemet?**
-Men hvorfor har vi ikke klart å finne ut av dette før nå? Problemet har vært et firkløver som vi finner i bunnen av dyrenes slektstre (figur 2), nemlig Nesledyrene (Cnidaria; brennmaneter og anemoner blant annet), Svampene (Porifera), Ribbemanetene (Ctenophora) og Placozoa (en meget sær gruppe med Trichoplax som eneste art). Disse fire gruppene er alle radial-symmetriske (dvs. at de bare har opp og ned, i motsetning til alle andre dyr (Bilateria) som i tillegg har foran og bak) og representerer svært tidlige dyrelinjer som utviklet seg i løpet av et forholdsvis kort tidsrom. Det er derfor få spor igjen i genene deres som kan fortelle oss hvordan slektskapet dem i mellom er og i hvilken rekkefølge de utviklet seg.
+**Hva har vært problemet?**  
+Men hvorfor har vi ikke klart å finne ut av dette før nå? Problemet har vært et firkløver som vi finner i bunnen av dyrenes slektstre (figur 2), nemlig Nesledyrene (Cnidaria; brennmaneter og anemoner blant annet), Svampene (Porifera), Ribbemanetene (Ctenophora) og Placozoa (en meget sær gruppe med *Trichoplax* som eneste art). Disse fire gruppene er alle radial-symmetriske (dvs. at de bare har opp og ned, i motsetning til alle andre dyr (Bilateria) som i tillegg har foran og bak) og representerer svært tidlige dyrelinjer som utviklet seg i løpet av et forholdsvis kort tidsrom. Det er derfor få spor igjen i genene deres som kan fortelle oss hvordan slektskapet dem i mellom er og i hvilken rekkefølge de utviklet seg.
 
-**Morfologien plasserer svampene først**
+**Morfologien plasserer svampene først**  
 Der man tidligere brukte sammenligninger mellom morfologiske trekk, bruker man i dag sammenligninger mellom gener for å bestemme slektskapet mellom ulike arter. Og dette gir ikke alltid det samme svaret, morfologisk sett gir det nemlig mest mening at svampene utviklet seg først av disse fire gruppene. La meg kort oppsummere:
 
-Svampene (figur 2A) er som sagt svært enkle. De står helt stille, som regel på bunnen av havet, og spiser ved å absorbere partikler og mikrober i vann som de pumper gjennom små porer i kroppen. Svampene består kun av noen få celletyper arrangert i to lag – ectoderm og endoderm (utside og innside – høyerestående dyr har et tredje cellelag i mellom som kalles mesoderm). I tillegg ligner den vanligste celletypen hos svamper, choanocyttene, svært på krageflagellater (som jo er de nærmeste encellede slektningene til dyr). Derfor har svamper lenge vært regnet som den første dyrelinjen som oppstod.
+*Svampene* (figur 2A) er som sagt svært enkle. De står helt stille, som regel på bunnen av havet, og spiser ved å absorbere partikler og mikrober i vann som de pumper gjennom små porer i kroppen. Svampene består kun av noen få celletyper arrangert i to lag – ectoderm og endoderm (utside og innside – høyerestående dyr har et tredje cellelag i mellom som kalles mesoderm). I tillegg ligner den vanligste celletypen hos svamper, choanocyttene, svært på krageflagellater (som jo er de nærmeste encellede slektningene til dyr). Derfor har svamper lenge vært regnet som den første dyrelinjen som oppstod.
 
 ![firklover][2]  
 *Figur 2. A) En svamp. B) Et nesledyr. C) En ribbemanet. D) Trichoplax. wikipedia.org*
 
-Placozoa er merkelige saker. Den eneste arten i denne gruppen er Trichoplax som er en celleklump på et par millimeter (figur 2D). Den har ingen organer, ingen foran eller bak. Trichoplax består av bare to lag med celler og en rekke flimmerhår som den beveger seg med. Den tar til seg næring ved at den skiller ut enzymer som fordøyer det den tilfeldigvis befinner seg oppå. Denne klumpen av et dyr ble lenge sett på som det tidligste dyret, men mange tror i dag at den i stedet er et resultat av en ekstrem evolusjonær reduksjon fra en mer kompleks forfar.
+*Placozoa* er merkelige saker. Den eneste arten i denne gruppen er Trichoplax som er en celleklump på et par millimeter (figur 2D). Den har ingen organer, ingen foran eller bak. Trichoplax består av bare to lag med celler og en rekke flimmerhår som den beveger seg med. Den tar til seg næring ved at den skiller ut enzymer som fordøyer det den tilfeldigvis befinner seg oppå. Denne klumpen av et dyr ble lenge sett på som det tidligste dyret, men mange tror i dag at den i stedet er et resultat av en ekstrem evolusjonær reduksjon fra en mer kompleks forfar.
 
-Nesledyrene (figur 2B) er en gruppe som inkluderer maneter, anemoner og koraller, og kjennetegnes av de spesielle neslecellene de fleste kjenner fra brennmaneten. Nesledyrene har også både muskelceller og nerveceller som gjør dem i stand til å svømme og sanse når et bytte er i nærheten. I tillegg til det indre og ytre cellelaget som vi finner hos svampene og Trichoplax, har nesledyrene et gelefylt lag i mellom kalt mesoglea hvor nervene og musklene ligger.
+*Nesledyrene* (figur 2B) er en gruppe som inkluderer maneter, anemoner og koraller, og kjennetegnes av de spesielle neslecellene de fleste kjenner fra brennmaneten. Nesledyrene har også både muskelceller og nerveceller som gjør dem i stand til å svømme og sanse når et bytte er i nærheten. I tillegg til det indre og ytre cellelaget som vi finner hos svampene og *Trichoplax*, har nesledyrene et gelefylt lag i mellom kalt mesoglea hvor nervene og musklene ligger.
 
-Mesoglea finner vi også hos Ribbemanetene (figur 2C). Ribbemanetene ser ganske like ut som manetene vi finner blant nesledyrene, de har også både muskler og nerveceller, og lenge trodde man de tilhørte samme gruppe. Men det er flere forskjeller mellom dem. For det første har ikke ribbemanetene nesleceller. I stedet fanger de byttet sitt i et seigt slim. Men ribbemanetene har derimot bioluminescens, og er derfor svært fotogene. I tillegg har de et anus, eller i hvert fall noen små anusporer (!) som man tror er forløperen til anuset hos mer avanserte dyr.
+Mesoglea finner vi også hos *Ribbemanetene* (figur 2C). Ribbemanetene ser ganske like ut som manetene vi finner blant nesledyrene, de har også både muskler og nerveceller, og lenge trodde man de tilhørte samme gruppe. Men det er flere forskjeller mellom dem. For det første har ikke ribbemanetene nesleceller. I stedet fanger de byttet sitt i et seigt slim. Men ribbemanetene har derimot bioluminescens, og er derfor svært fotogene. I tillegg har de et anus, eller i hvert fall noen små anusporer (!) som man tror er forløperen til anuset hos mer avanserte dyr.
 
 Så basert på morfologien har man derfor trodd at svampene utviklet seg først, før nesledyrene og deretter ribbemanetene. Placozoa er vrien, men er sannsynligvis nærmest i slekt med Bilateria.
 
-**Ribbemanetens genom**
+**Ribbemanetens genom**  
 Og da er jeg endelig tilbake der jeg startet. [Nemlig at genomet til ribbemaneten Mnemiopsis leydi har blitt sekvensert.](http://www.sciencemag.org/cgi/doi/10.1126/science.1242592)
 
 Ribbemaneten var nemlig den eneste av firkløveret som ikke hadde fått sitt arvestoff analysert. Dette har også vært mye av årsaken til at slektskapet mellom disse fire har vært usikkert. Men med genomet ferdig har man kunnet inkludere en stor mengde gener også fra ribbemaneten i slektskapsanalysene. Og dette viser med (rimelig) stor sannsynlighet at det faktisk var ribbemanetene som utviklet seg først av alle nålevende dyr (figur 3).
@@ -58,7 +58,7 @@ Og denne plasseringen er ganske så kontroversiell blant mange evolusjonsbiologe
 Stor betydning for forståelsen av dyreevolusjonen
 Sekvenseringen av ribbemanetens genom er derfor viktig for mer enn bare å finne ut av hvilken dyrerekke som er eldst. Genomet viser at den tidlige dyreevolusjonen ikke nødvendigvis har vært en lineær marsj fra en enkel kroppsform til mer og mer kompleks. Men denne studien viser også hvor viktig det er med genominformasjon fra mange arter. For et stort antall gener må til for å løse opp i slektskapet mellom svært gamle linjer. Det vil derfor bli interessant å se hva som skjer når vi får sekvensert genomet til flere svamper. Jeg holder nemlig fortsatt muligheten åpen for at svampene kan være den første dyrerekken – genomes will show.
 
-**Referanser**
+**Referanser**  
 Ryan, J. F. et al. The Genome of the Ctenophore Mnemiopsis leidyi and Its Implications for Cell Type Evolution. 2013. Science. [http://www.sciencemag.org/cgi/doi/10.1126/science.1242592](http://www.sciencemag.org/cgi/doi/10.1126/science.1242592)
 
 Rokas, A. My Oldest Sister Is a Sea Walnut? 2013. Science.
