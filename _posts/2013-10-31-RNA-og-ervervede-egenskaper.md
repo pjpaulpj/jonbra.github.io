@@ -22,13 +22,13 @@ Ikke lenge etter du er blitt unnfanget blir det allerede bestemt hvilke gener og
 
 Men det trodde ikke Lamarck (han var omtrent 50 år eldre enn Charles Darwin) var overbevist om at evolusjon foregikk ved at egenskaper du ervervet deg i løpet av livet ville overføres til dine barn. Det mest brukte eksempelet på Lamarcks teori er giraffen som strekker hals for å nå blader stadig høyere oppe. Dermed vil halsen til giraffen bli litt lenger og avkommet dens vil starte sitt liv med en litt lenger hals enn foreldrene.
 
-    [Jean-Baptiste Lamarck](https://en.wikipedia.org/wiki/Lamarck)
+[Jean-Baptiste Lamarck](https://en.wikipedia.org/wiki/Lamarck)
 
 Lamarckismen ble raskt populær. Den representerte en tro på at hvis du gjør gode gjerninger, og hvis du trener og spiser godt, og øver masse på fotball, vil dine barn fødes som flinkere og bedre mennesker enn du var. Skuffelsen var derfor stor da forskningen senere viste at dette var feil. Skuffelsen var derfor stor da August Weismann allerede i 1889 viste at dette var feil.
 
 Men nå er det en ny spiller på banen som kan gi Lamarck et comeback: RNA-molekylet. Små ikke-kodende RNA-molekyler for å være presis. Slike små RNA-molekyler kopieres fra områder av DNA, som avskrift fra en kokebok, og brukes til å regulere aktiviteten til gener. Men de kan også produseres fra fremmed arvestoff som har kommet inn i cellen, da gjerne i form av virusangrep. Mange av disse RNA-molekylene produseres fra det som tradisjonelt har blitt omtalt som søppel-DNA, et begrep som igjen skaper heftig debatt blant forskere.
 
-    [Forskere krangler om «søppel-DNA» er viktig eller bare søppel.](http://www.aftenposten.no/kultur/Forskere-krangler-om-soppel-DNA-er-viktig-eller-bare-soppel-7131732.html#.Uk1OCrZLIeY)
+[Forskere krangler om «søppel-DNA» er viktig eller bare søppel.](http://www.aftenposten.no/kultur/Forskere-krangler-om-soppel-DNA-er-viktig-eller-bare-soppel-7131732.html#.Uk1OCrZLIeY)
 
 
 Men hva har små RNA-molekyler med mine manglende fotballegenskaper å gjøre?
