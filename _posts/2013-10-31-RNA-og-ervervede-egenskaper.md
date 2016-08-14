@@ -33,7 +33,7 @@ Men nå er det en ny spiller på banen som kan gi Lamarck et comeback: RNA-molek
 
 Men hva har små RNA-molekyler med mine manglende fotballegenskaper å gjøre?
 
-Flere studier peker nå mot at slike RNA-molekyler kan nedarves fra foreldre til avkom. Dette bryter altså med det klassiske synet på arv som sier at vi kun arver egenskaper som finnes i DNA.En studie på mus har vist at slike små RNA-molekyler kan overføres fra foreldre til avkom og gi hvite haletipper hos avkommet, på tross av at gener for hvite haletipper ikke finnes i DNA-et til avkommet. Men kanskje mest spennende er en studie gjort på arv av virusresistens gjennom slike RNA-molekyler hos rundormen C. elegans.
+Flere studier peker nå mot at slike RNA-molekyler kan nedarves fra foreldre til avkom. Dette bryter altså med det klassiske synet på arv som sier at vi kun arver egenskaper som finnes i DNA.En studie på mus har vist at slike små RNA-molekyler kan overføres fra foreldre til avkom og gi hvite haletipper hos avkommet, på tross av at gener for hvite haletipper ikke finnes i DNA-et til avkommet. Men kanskje mest spennende er en studie gjort på arv av virusresistens gjennom slike RNA-molekyler hos rundormen *C. elegans*.
 
 ![Celegans][2]  
 *Rundormen Caenorhabditis elegans. (wikimedia commons)*  
@@ -46,7 +46,7 @@ Vi vet nå at ytre faktorer kan gi arvelig endring av genuttrykk. Slike epigenet
 
 Så selv om det er langt fra rundormer til mennesker kan jeg ikke unngå å tenke at faren min skulle øvd litt mer på frispark neste gang jeg måker ballen fire meter over tverrliggeren.
 
-**Referanser:**
+**Referanser:**  
 [Rechavi, O. et al. 2011. Transgenerational Inheritance of an Acquired Small RNA-Based Antiviral Response in C. elegans. Cell 147:6.](http://www.cell.com/abstract/S0092-8674%2811%2901341-9)
 
 [Rassoulzadegan, M. et al. 2006. RNA-mediated non-mendelian inheritance of an epigenetic change in the mouse. Nature 441:7092.](http://www.nature.com/nature/journal/v441/n7092/abs/nature04674.html)
