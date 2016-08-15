@@ -8,7 +8,7 @@ feature_row:
     url: "/research/"
     btn_label: "Read More"
   - title: "Recent posts"
-    excerpt: "[Svampene tar tilbake førsteplassen](https://jonbra.github.io/blog/svampene-tar-tilbake-f%C3%B8rsteplassen/)-[Ribbemaneter med skjelett](https://jonbra.github.io/blog/ribbemaneter-med-skjelett/)-[Hverken fugl eller fisk, eller sopp](https://jonbra.github.io/blog/hverken-fugl-eller-fisk/)"
+    excerpt: "[Svampene tar tilbake førsteplassen](https://jonbra.github.io/blog/svampene-tar-tilbake-f%C3%B8rsteplassen/) - [Ribbemaneter med skjelett](https://jonbra.github.io/blog/ribbemaneter-med-skjelett/) - [Hverken fugl eller fisk, eller sopp](https://jonbra.github.io/blog/hverken-fugl-eller-fisk/)"
     url: "/blog/"
     btn_label: "Read More"
 ---
