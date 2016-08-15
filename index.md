@@ -4,7 +4,8 @@ author_profile: true
 permalink: /
 feature_row:
   - title: "Research"
-    excerpt: "My current research project is about understanding the significance of non-coding RNAs in the evolution of multicellular animals.A"
+    excerpt: "PAGE UNDER DEVELOPMENT.  
+My current research project is about understanding the significance of non-coding RNAs in the evolution of multicellular animals."
     url: "/research/"
     btn_label: "Read More"
   - title: "Recent posts"
