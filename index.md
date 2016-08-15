@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 feature_row:
   - title: "Research"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter. Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "My current research project is about understanding the significance of non-coding RNAs in the evolution of multicellular animals.A"
     url: "/research/"
     btn_label: "Read More"
   - title: "Recent posts"
