@@ -1,6 +1,7 @@
 ---
 title: Var forfaren vår en ribbemanet?
 layout: single
+excerpt: "Ribbemanetene har tatt over plassen som det første dyret"
 tags:
   - dyr
   - evolusjon
