@@ -1,6 +1,7 @@
 ---
 title: Svampene tar tilbake førsteplassen
 layout: single
+excerpt: "Svampene har tatt tilbake plassen som det første dyret"
 tags:
   - dyr
   - evolusjon
