@@ -9,7 +9,7 @@ categories:
   - blog
 ---
 
-![ribbemaneter med skjelett][1]{: .align-center}
+![ribbemaneter med skjelett][1]
 
 Dette innlegget er også publisert på [forskning.no](http://forskning.no/blogg/jon-brates-blogg/ribbemaneter-med-skjelett)
 	
