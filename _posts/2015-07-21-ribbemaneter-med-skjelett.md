@@ -13,7 +13,7 @@ categories:
 
 Dette innlegget er også publisert på [forskning.no](http://forskning.no/blogg/jon-brates-blogg/ribbemaneter-med-skjelett)
 
-![svamp ribbemanet][2]  
+![svamp ribbemanet][2]{: .align-left} 
 *En moderne ribbemanet består kun av bløtvev. Foto: Wikipedia.org*
 	
 Selv om dagens ribbemaneter bare er noen myke geleklumper, viser nye fossiler at de kanskje en gang hadde skjelett.
