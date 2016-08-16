@@ -1,6 +1,7 @@
 ---
 title: RNA gir nytt liv til teorien om arv av ervervede egenskaper
 layout: single
+excerpt: "Små RNA-molekyler kan nedarves fra mor til barn"
 tags:
   - Darwin
   - evolusjon
