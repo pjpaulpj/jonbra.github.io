@@ -19,7 +19,8 @@ Selv om dagens ribbemaneter bare er noen myke geleklumper, viser nye fossiler at
   <img src="/images/combjelly_wiki.jpg" alt="">
   <figcaption>En moderne ribbemanet består kun av bløtvev. Foto: Wikipedia.org</figcaption>
 </figure>
-
+  
+  
 [Ribbemaneter](https://no.wikipedia.org/wiki/Ribbemaneter) er små frittlevende maneter som finnes i alle verdenshav. De ligner på brennmaneter og glassmaneter, men er faktisk ikke i slekt. Ribbemaneter utgjør sin helt egen rekke, Ctenophora. I tillegg har ribbemanetene har vært veldig i vinden i det siste fordi flere studier har antydet at de sannsynligvis var den [første dyregruppen som oppstod](http://forskning.no/content/var-forfaren-var-en-ribbemanet).
 
 Men altså, ribbemaneter med skjelett. Kinesiske forskere har i en [nylig publisert studie i Science Advances](http://advances.sciencemag.org/content/1/6/e1500092) gjennomgått over 500 millioner år gamle bergarter fra Chengjiang i Sør-Kina. Disse inneholder den såkalte Chengjiang-biotaen fra den Kambriske perioden. Der fant de seks arter som ligner svært mye på dagens ribbemaneter (tre av dem har tidligere vært observert, men ikke formelt beskrevet). Blant annet har de åtte langsgående par med kammer (kammene er rader av cilier, små hår som ribbemanetene blafrer med for å svømme) og en åttedelt symmetri. Og så hadde de disse skjelettene da, eller harde plater som det kan se ut hos noen av artene. Disse platene var støttet opp av åtte stive buer som hos noen av artene også var dekket av pigger.  
