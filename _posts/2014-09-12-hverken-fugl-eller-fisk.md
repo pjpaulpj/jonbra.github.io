@@ -1,6 +1,7 @@
 ---
 title: Hverken fugl eller fisk, eller sopp
 layout: single
+excerpt: "Dendrogramma, en ny dyrerekke er funnet"
 tags:
   - dyr
   - evolusjon
