@@ -29,11 +29,6 @@ Men altså, ribbemaneter med skjelett. Kinesiske forskere har i en [nylig publis
 ![fossile ribbemaneter][3]
 *Slik ser noen av fossilene ut. Kammene med cilier er tydelige (cr). Foto: Qiang et al. 2015. Science Advances*
 
-<figure>
-  <img src="/images/screen_shot_2015-07-18_at_18.51.27.png" alt="">
-  <figcaption>Slik ser noen av fossilene ut. Kammene med cilier er tydelige (cr). Foto: Qiang et al. 2015. Science Advances</figcaption>
-</figure> 
-
 
 Et annet interessant fenomen som de nevner i studien er at mange andre dyregrupper som i dag kun består av bløtvevsarter, også hadde skjeletter på denne tiden. Hvorfor det var sånn er veldig usikkert. Kanskje de fungerte som beskyttelse mot predatorer, kanskje var havene stappfulle av mineraler slik at skjelett var veldig enkelt å lage, eller kanskje skjelett bare var moderne på den tiden?
 
