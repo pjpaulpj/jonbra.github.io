@@ -12,16 +12,13 @@ categories:
 ![ribbemaneter med skjelett][1]
 
 Dette innlegget er også publisert på [forskning.no](http://forskning.no/blogg/jon-brates-blogg/ribbemaneter-med-skjelett)
-
-![svamp ribbemanet][2]{: .align-left} 
-*En moderne ribbemanet består kun av bløtvev. Foto: Wikipedia.org*
+	
+Selv om dagens ribbemaneter bare er noen myke geleklumper, viser nye fossiler at de kanskje en gang hadde skjelett.
 
 <figure style="width: 150px" class="align-left">
   <img src="/images/combjelly_wiki.jpg" alt="">
   <figcaption>En moderne ribbemanet består kun av bløtvev. Foto: Wikipedia.org</figcaption>
 </figure>
-	
-Selv om dagens ribbemaneter bare er noen myke geleklumper, viser nye fossiler at de kanskje en gang hadde skjelett.
 
 [Ribbemaneter](https://no.wikipedia.org/wiki/Ribbemaneter) er små frittlevende maneter som finnes i alle verdenshav. De ligner på brennmaneter og glassmaneter, men er faktisk ikke i slekt. Ribbemaneter utgjør sin helt egen rekke, Ctenophora. I tillegg har ribbemanetene har vært veldig i vinden i det siste fordi flere studier har antydet at de sannsynligvis var den [første dyregruppen som oppstod](http://forskning.no/content/var-forfaren-var-en-ribbemanet).
 
