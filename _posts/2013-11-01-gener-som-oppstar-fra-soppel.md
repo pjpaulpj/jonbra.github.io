@@ -1,6 +1,7 @@
 ---
 title: Gener som oppstår fra søppel?! 
 layout: single
+excerpt: "Noen gener har oppstått fra søppel-DNA"
 tags:
   - non-coding DNA
   - evolusjon
