@@ -1,6 +1,7 @@
 ---
 title: Ribbemaneter med skjelett
 layout: single
+excerpt: "Selv om dagens ribbemaneter bare er noen myke geleklumper, viser nye fossiler at de kanskje en gang hadde skjelett."
 tags:
   - dyr
   - evolusjon
