@@ -15,6 +15,11 @@ Dette innlegget er også publisert på [forskning.no](http://forskning.no/blogg/
 
 ![svamp ribbemanet][2]{: .align-left} 
 *En moderne ribbemanet består kun av bløtvev. Foto: Wikipedia.org*
+
+<figure style="width: 150px" class="align-left">
+  <img src="/images/combjelly_wiki.jpg" alt="">
+  <figcaption>En moderne ribbemanet består kun av bløtvev. Foto: Wikipedia.org</figcaption>
+</figure>
 	
 Selv om dagens ribbemaneter bare er noen myke geleklumper, viser nye fossiler at de kanskje en gang hadde skjelett.
 
