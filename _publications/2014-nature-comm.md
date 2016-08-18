@@ -2,7 +2,7 @@
 title: "Developmental gene expression provides clues to relationships between sponge and eumetazoan body plans"
 excerpt: "Body plans of sponges and cnidarians are homologous."
 header:
-  teaser: Nature_comm_teaser.png
+  teaser: Nature_comm_teaser.jpg
 gallery:
   - url: Nature_comm_heatmap.png
     image_path: Nature_comm_heatmap.png
