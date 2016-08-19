@@ -19,6 +19,6 @@ gallery:
 
 Here we identified and studied the expression of long intergenic non-coding RNAs (lincRNAs) during embryogenesis of the calcareous sponge *Sycon ciliatum*. This was one of the first studies to use *in situ* hybridization to visualize the expression of lincRNAs. 
 
-{% include gallery caption="Selected figures from the paper." %}
+{% include gallery caption="" %}
 
 Link to the paper on [Kudos](https://www.growkudos.com/publications/10.1098%252Frspb.2015.1746)
