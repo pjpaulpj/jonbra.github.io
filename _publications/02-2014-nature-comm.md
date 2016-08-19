@@ -17,5 +17,5 @@ gallery:
 
 Leininger, S., Adamski, M. Bergum, B., Guder, C., Liu, J., Laplante, M., **Bråte, J**., Hoffmann, F., Fortunato, S., Jordal, S., Rapp, H. T. and Adamska, M. 2014. *Nature Communications*. 5:3905. [doi:10.1038/ncomms4905](http://www.nature.com/articles/ncomms4905)
 
-{% include gallery caption="Selected figures from the paper." %}
+{% include gallery caption="" %}
 
