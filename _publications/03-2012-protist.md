@@ -1,5 +1,5 @@
 ---
-title: "Radiolaria Associated with Large Diversity of Marine Alveolates."
+title: "Radiolaria Associated with Large Diversity of Marine Alveolates"
 excerpt: "Single Cell Whole Genome Amplification identifies large diversity of Marine Aleolate parasites in Radiolarians."
 header:
   teaser: 2012-protist-teaser.jpg

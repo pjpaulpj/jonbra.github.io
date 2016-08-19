@@ -1,5 +1,5 @@
 ---
-title: "The 18S and 28S rDNA identity and phylogeny of the common lotic chrysophyte *Hydrurus foetidus*."
+title: "The 18S and 28S rDNA identity and phylogeny of the common lotic chrysophyte *Hydrurus foetidus*"
 excerpt: "First phylogenetic placement of the Stramenopile algae *Hydrurus foetidus*."
 header:
   teaser: 2011-hydrurus-teaser.jpg
