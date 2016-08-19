@@ -19,3 +19,6 @@ Leininger, S., Adamski, M. Bergum, B., Guder, C., Liu, J., Laplante, M., **Bråt
 
 {% include gallery caption="" %}
 
+<h3>Abstract</h3>
+Elucidation of macroevolutionary transitions between diverse animal body plans remains a major challenge in evolutionary biology. We address the sponge-eumetazoan transition by analyzing expression of a broad range of eumetazoan developmental regulatory genes in *Sycon ciliatum* (Calcispongiae). Here we show that many members of surprisingly numerous *Wnt* and *Tgfβ* gene families are expressed higher or uniquely in the adult apical end and the larval posterior end. Genes involved in formation of the eumetazoan endomesoderm, such as *β-catenin*, *Brachyury* and *Gata*, as well as germline markers *Vasa* and *Pl10*, are expressed during formation and maintenance of choanoderm, the feeding epithelium of sponges. Similarity in developmental gene expression between sponges and eumetazoans, especially cnidarians, is consistent with Haeckel’s view that body plans of sponges and cnidarians are homologous. These results provide a framework for further studies aimed at deciphering ancestral developmental regulatory networks and their modifications during animal body plans evolution.
+
