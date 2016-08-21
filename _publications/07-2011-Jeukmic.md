@@ -5,7 +5,7 @@ header:
   teaser: publications/2011-jeukmic-teaser.png
 gallery:
   - url: publications/2011-jeukmic.png
-    image_path: publications/
+    image_path: publications/2011-jeukmic.png
     alt: "Figure 1"
 ---
 
