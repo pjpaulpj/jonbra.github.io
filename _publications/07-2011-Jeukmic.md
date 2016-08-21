@@ -1,17 +1,17 @@
 ---
-title: "Radiolaria Divided into Polycystina and Spasmaria in Combined 18S and 28S rDNA Phylogeny"
+title: "Marine-freshwater colonizations of haptophytes inferred from phylogeny of environmental 18S rDNA sequences"
 excerpt: "Resolved Radiolarian phylogeny by combining single cell whole genome amplification with targeted PCR amplification of the 18S and 28S rDNA genes."
 header:
-  teaser: /publications/2011-Plos-teaser.jpg
+  teaser: 2011-Plos-teaser.jpg
 gallery:
-  - url: /publications/2011-Plos-fig1.png
-    image_path: /publications/2011-Plos-fig1.png
+  - url: 2011-Plos-fig1.png
+    image_path: 2011-Plos-fig1.png
     alt: "Figure 1"
-  - url: /publications/2011-Plos-fig2.png
-    image_path: /publications/2011-Plos-fig2.png
+  - url: 2011-Plos-fig2.png
+    image_path: 2011-Plos-fig2.png
     alt: "Table 2"
-  - url: /publications/2011-Plos.fig3.png
-    image_path: /publications/2011-Plos.fig3.png
+  - url: 2011-Plos.fig3.png
+    image_path: 2011-Plos.fig3.png
     alt: "Figure 3"
 ---
 
