@@ -2,13 +2,13 @@
 title: "The 18S and 28S rDNA identity and phylogeny of the common lotic chrysophyte *Hydrurus foetidus*"
 excerpt: "First phylogenetic placement of the Stramenopile algae *Hydrurus foetidus*."
 header:
-  teaser: 2011-hydrurus-teaser.jpg
+  teaser: publications/2011-hydrurus-teaser.jpg
 gallery:
-  - url: 2011-hydrurus-fig1.jpg
-    image_path: 2011-hydrurus-fig1.jpg
+  - url: publications/2011-hydrurus-fig1.jpg
+    image_path: publications/2011-hydrurus-fig1.jpg
     alt: "Figure 1"
-  - url: 2011-hydrurus-fig2.jpg
-    image_path: 2011-hydrurus-fig2.jpg
+  - url: publications/2011-hydrurus-fig2.jpg
+    image_path: publications/2011-hydrurus-fig2.jpg
     alt: "Figure 2"
 ---
 Klaveness, D., **Bråte, J.**, Patil, V., Shalchian-Tabrizi, K., Kluge, R., Gislerød, H. R. and Jakobsen, K. S. 2011. *European Journal of Phycology*. 46(3):282-291. [doi:10.1080/09670262.2011.598950](http://www.tandfonline.com/doi/abs/10.1080/09670262.2011.598950)
