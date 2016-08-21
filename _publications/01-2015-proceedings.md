@@ -2,16 +2,16 @@
 title: "Regulatory RNA at the root of animals: dynamic expression of developmental lincRNAs in the calcisponge *Sycon ciliatum*"
 excerpt: "Developmental expression of lincRNAs in the sponge *Sycon ciliatum*"
 header:
-  teaser: proceedings_figure2.jpg
+  teaser: publications/proceedings_figure2.jpg
 gallery:
-  - url: proceedings_pipeline.jpg
-    image_path: proceedings_pipeline.jpg
+  - url: publications/proceedings_pipeline.jpg
+    image_path: publications/proceedings_pipeline.jpg
     alt: "lincRNA pipeline"
-  - url: proceedings_figure2.jpg
-    image_path: proceedings_figure2.jpg
+  - url: publications/proceedings_figure2.jpg
+    image_path: publications/proceedings_figure2.jpg
     alt: "developmental lincRNA expression"
-  - url: proceedings_modules.jpg
-    image_path: proceedings_modules.jpg
+  - url: publications/proceedings_modules.jpg
+    image_path: publications/proceedings_modules.jpg
     alt: "co-expression module"
 ---
 
