@@ -1,23 +1,17 @@
 ---
 title: "Marine-freshwater colonizations of haptophytes inferred from phylogeny of environmental 18S rDNA sequences"
-excerpt: "Resolved Radiolarian phylogeny by combining single cell whole genome amplification with targeted PCR amplification of the 18S and 28S rDNA genes."
+excerpt: "Discovered unknown freshwater diversity of Haptophytes using environmental sequence data."
 header:
-  teaser: 2011-Plos-teaser.jpg
+  teaser: publications/2011-jeukmic-teaser.png
 gallery:
-  - url: 2011-Plos-fig1.png
-    image_path: 2011-Plos-fig1.png
+  - url: publications/2011-jeukmic.png
+    image_path: publications/
     alt: "Figure 1"
-  - url: 2011-Plos-fig2.png
-    image_path: 2011-Plos-fig2.png
-    alt: "Table 2"
-  - url: 2011-Plos.fig3.png
-    image_path: 2011-Plos.fig3.png
-    alt: "Figure 3"
 ---
 
-Krabberød, A. K., Bråte, J., Dolven, J. K., Ose, R. F., Klaveness, D., Kristensen, T., Bjørklund, K. and Shalchian-Tabrizi, K. 2011. *PLoS ONE*. 6(8): e23526. [doi:10.1371/journal.pone.0023526](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023526) 
+Shalchian-Tabrizi, K., Røberg, K. R., Ree, D. K., Klaveness, D. and **Bråte, J**. 2011. *J Euk Microbiol*. 58: [doi:10.1111/j.1550-7408.2011.00547.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1550-7408.2011.00547.x/abstract)
 
 {% include gallery caption="" %}
 
 <h3>Abstract</h3>
-Radiolarians are marine planktonic protists that belong to the eukaryote supergroup Rhizaria together with Foraminifera and Cercozoa. Radiolaria has traditionally been divided into four main groups based on morphological characters; i.e. Polycystina, Acantharia, Nassellaria and Phaeodaria. But recent 18S rDNA phylogenies have shown that Phaeodaria belongs within Cerocozoa, and that the previously heliozoan group Taxopodida should be included in Radiolaria. 18S rDNA phylogenies have not yet resolved the sister relationship between the main Radiolaria groups, but nevertheless suggests that Spumellaria, and thereby also Polycystina, are polyphyletic. Very few sequences other than 18S rDNA have so far been generated from radiolarian cells, mostly due to the fact that Radiolaria has been impossible to cultivate and single cell PCR has been hampered by low success rate. Here we have therefore investigated the mutual evolutionary relationship of the main radiolarian groups by using the novel approach of combining single cell whole genome amplification with targeted PCR amplification of the 18S and 28S rDNA genes. Combined 18S and 28S phylogeny of sequences obtained from single cells shows that Radiolaria is divided into two main lineages: Polycystina (Spumellaria+Nassellaria) and Spasmaria (Acantharia+Taxopodida). Further we show with high support that Foraminifera groups within Radiolaria supporting the Retaria hypothesis.
+The Haptophyta is a common algal group in many marine environments, but only a few species have been observed in freshwaters, with DNA sequences available from just a single species, *Crysochromulina parva* Lackey, 1939. Here we investigate the haptophyte diversity in a high mountain lake, Lake Finsevatn, Norway, targeting the variable V4 region of the 18S rDNA gene with PCR and 454 pyrosequencing. In addition, the freshwater diversity of Pavlovophyceae was investigated by lineage-specific PCR-primers and clone library sequencing from another Norwegian lake, Lake Sværsvann. We present new freshwater phylotypes belonging to the classes Prymnesiophyceae and Pavlovophyceae, as well as a distinct group here named HAP-1. This is the first molecular evidence of a freshwater species belonging to the class Pavlovophyceae. The HAP-1 and another recently detected marine group (i.e. HAP-2) are separated from both Pavlovophyceae and Prymnesiophyceae and may constitute new higher order taxonomic lineages. As all obtained freshwater sequences of haptophytes are distantly related to the freshwater species *C. parva*, the phylogeny demonstrates that haptophytes colonized freshwater on multiple independent occasions. One of these colonizations, which gave rise to HAP-1, took place very early in the history of haptophytes, before the radiation of the Prymnesiophyceae.
