@@ -21,7 +21,6 @@ Here we show for the first time that unicellular ancestors of animals have micro
 
 {% include gallery caption="" %}
 
-Link to the paper on [Kudos](https://www.growkudos.com/publications/10.1098%252Frspb.2015.1746)
 
 <h3>Abstract</h3>
 microRNAs (miRNAs) are integrated parts of the developmental toolkit in animals. The evolutionary history and origins of animal miRNAs is however unclear, and it is not known when they evolved and on how many occasions. We have therefore investigated the presence of miRNAs and the necessary miRNA biogenesis machinery in a large group of unicellular relatives of animals, Ichthyosporea. By small RNA sequencing we find evidence for at least four genes in the genus *Sphaeroforma* that satisfy the criteria for the annotation of animal miRNA genes. Three of these miRNAs are conserved and expressed across sphaeroformid species. Furthermore, we identify homologues of the animal miRNA biogenesis genes across a wide range of ichthyosporeans, including *Drosha* and *Pasha* which make up the animal specific Microprocessor complex. Taken together we report the first evidence for bona fide miRNA genes and the presence of the miRNA-processing pathway in unicellular Choanozoa, implying that the origin of animal miRNAs and the Microprocessor complex predates multicellular animals.
