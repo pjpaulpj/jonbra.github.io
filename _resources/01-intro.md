@@ -1,8 +1,8 @@
 ---
-title: "Quick-Start Guide"
+title: "Intro"
 permalink: /resources/abel/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
-modified: 2016-04-13T15:54:02-04:00
+excerpt: "How to set up a bioinformatics project on Abel at UiO"
+modified: 2016-10-7T09:36
 ---
 
 {% include base_path %}
