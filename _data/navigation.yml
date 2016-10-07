@@ -20,6 +20,6 @@ resources:
   - title: Home
     children: 
       - title: "Intro"
-      - url: /resources/abel/
+      - url: /intro/
       - title: "Setting up a project"
-      - url: /resources/project/
+      - url: /setting-up-project/
