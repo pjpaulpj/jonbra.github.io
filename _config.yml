@@ -208,7 +208,7 @@ defaults:
   # _resources
   - scope:
       path: ""
-      type: docs
+      type: resources
     values:
       layout: single
       read_time: false
