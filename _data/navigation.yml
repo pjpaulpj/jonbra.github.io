@@ -15,3 +15,11 @@ main:
   - title: "Resources"
     url: /resources/
 
+# Abel navigation links
+resources:
+  - title: Home
+    children: 
+      - title: "Intro"
+      - url: /resources/abel/
+      - title: "Setting up a project"
+      - url: /resources/project/
