@@ -1,6 +1,6 @@
 ---
 title: "Intro"
-permalink: /resources/intro/
+permalink: /resources/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
 ---
 
