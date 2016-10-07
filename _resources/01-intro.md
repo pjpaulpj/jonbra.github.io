@@ -3,6 +3,8 @@ title: "Intro"
 permalink: /resources/abel/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
 modified: 2016-10-7T09:36
+sidebar:
+  nav: "resources"
 ---
 
 {% include base_path %}
