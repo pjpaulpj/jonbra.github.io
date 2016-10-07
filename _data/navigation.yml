@@ -17,9 +17,9 @@ main:
 
 # Abel navigation links
 resources:
-  - title: Home
+  - title: Working with Abel
     children: 
-      - title: "Intro"
+      - title: "Introduction"
       - url: /resources/intro/
       - title: "Setting up a project"
       - url: /resources/setting-up-project/
