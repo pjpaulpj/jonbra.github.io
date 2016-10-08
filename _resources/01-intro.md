@@ -1,11 +1,15 @@
 ---
-title: "Intro"
+title: "Working on the Abel compute cluster at UiO"
 permalink: /resources/intro/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
+sidebar:
+  nav: "resources"
 ---
 
 {% include base_path %}
 
-I assume you know the basic Unix commands:
-You also need a terminal, on a mac this comes pre-installed, but we usually use something like iTerm which has a few extra functionalities. On a Windows machine you can use for instance Putty or 
-A word about job scripts (slurm scripts) on Abel:
+PAGE UNDER DEVELOPMENT 
+
+Here I will share some of the scripts we are using in our group for running analyses on the Abel compute cluster at the University of Oslo.
+
+Please drop me a comment if you find any errors or room for improvement (there will be plenty because I am a total noob when it comes to programming).
