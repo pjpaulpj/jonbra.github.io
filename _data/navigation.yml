@@ -20,6 +20,6 @@ resources:
   - title: Working with Abel
     children: 
       - title: "Introduction"
-      - url: /resources/intro/
+        url: /resources/intro/
       - title: "Setting up a project"
-      - url: /resources/setting-up-project/
+        url: /resources/setting-up-project/
