@@ -13,7 +13,7 @@ main:
     url: /talks/
 
   - title: "Resources"
-    url: /talks/
+    url: /resources/
 
 # Abel navigation links
 resources:
@@ -24,11 +24,3 @@ resources:
       - title: "Setting up a project"
         url: /resources/setting-up-project/
 
-# Abel navigation links
-abel:
-  - title: Working with Abel
-    children: 
-      - title: "Introduction"
-        url: /abel/intro/
-      - title: "Setting up a project"
-        url: /abel/setting-up-project/
