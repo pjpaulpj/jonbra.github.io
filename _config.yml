@@ -216,7 +216,7 @@ defaults:
       layout: single
       read_time: false
       author_profile: false
-      share: true
+      share: false
       comments: true
       sidebar:
         nav: "resources"
