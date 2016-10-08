@@ -2,8 +2,6 @@
 title: "Quality trimming and removing adaptors"
 permalink: /resources/trimming/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
-sidebar:
-  nav: "resources"
 ---
 
 
