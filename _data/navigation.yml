@@ -13,10 +13,10 @@ main:
     url: /talks/
 
   - title: "Resources"
-    url: /resources/
-    
-  - title: "Abel"
     url: https://jonbra.github.io/abel/
+    
+#  - title: "Abel"
+#    url: https://jonbra.github.io/abel/
 
 # Abel navigation links
 resources:
