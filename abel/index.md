@@ -1,18 +1,14 @@
 ---
-title: "Working on the Abel compute cluster at UiO"
+title: "Resources"
 permalink: /abel/
-excerpt: "How to set up a bioinformatics project on Abel at UiO"
-sidebar:
-  nav: "resources"
-comments: true
+excerpt: "Resources"
 ---
 
 {% include base_path %}
 
 PAGE UNDER DEVELOPMENT 
 
-Here I will share some of the scripts we are using in our group for running analyses on the Abel compute cluster at the University of Oslo.
+## Datasets from our [paper on sponge lincRNAs](http://rspb.royalsocietypublishing.org/content/282/1821/20151746) are on [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.v83fj)
 
-Please drop me a comment if you find any errors or room for improvement (there will be plenty because I am a total noob when it comes to programming).
-
+## [Scripts and information about using the Abel supercomputer at UiO](https://jonbra.github.io/resources/intro/)
 
