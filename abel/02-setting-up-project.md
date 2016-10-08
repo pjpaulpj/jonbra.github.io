@@ -2,6 +2,8 @@
 title: "Setting up a project on Abel"
 permalink: /abel/project/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
+sidebar:
+	nav: "abel"
 ---
 
 
