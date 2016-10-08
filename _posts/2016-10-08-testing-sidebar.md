@@ -1,5 +1,5 @@
 ---
-title: Svampene tar tilbake førsteplassen
+title: Testing sidebar
 layout: single
 excerpt: "Svampene har tatt tilbake plassen som det første dyret"
 tags:
@@ -9,6 +9,8 @@ tags:
   - svamper
 categories:
   - blog
+sidebar:
+  nav: "abel"
 ---
 
 Dette innlegget er også publisert på [forskning.no](http://forskning.no/blogg/jon-brates-blogg/svampene-tar-tilbake-forsteplassen)
