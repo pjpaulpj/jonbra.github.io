@@ -9,8 +9,6 @@ tags:
   - svamper
 categories:
   - blog
-sidebar:
-	nav: "abel"
 ---
 
 Dette innlegget er også publisert på [forskning.no](http://forskning.no/blogg/jon-brates-blogg/svampene-tar-tilbake-forsteplassen)
