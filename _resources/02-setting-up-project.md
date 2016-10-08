@@ -48,3 +48,5 @@ MyProject
     │   │   │   ...
     │
 ```
+
+The first thing you should do with your sequence data is to check the quality of the reads and the presence of sequencing adapters, poly-A tails, pcr primers etc. 
