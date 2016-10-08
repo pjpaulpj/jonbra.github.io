@@ -35,4 +35,6 @@ abel:
         url: /abel/intro/
       - title: "Setting up a project"
         url: /abel/project/
+      - title: "Trimming"
+        url: /resources/trimming/
 
