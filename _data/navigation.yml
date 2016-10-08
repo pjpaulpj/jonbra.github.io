@@ -20,7 +20,7 @@ main:
 
 # Abel navigation links
 resources:
-  - title: Working with Abel
+  - title: Working on Abel
     children: 
       - title: "Introduction"
         url: /resources/intro/
