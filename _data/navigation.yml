@@ -26,15 +26,7 @@ resources:
         url: /resources/intro/
       - title: "Setting up a project"
         url: /resources/setting-up-project/
-
-# Abel navigation links
-abel:
-  - title: Working with Abel
-    children: 
-      - title: "Introduction"
-        url: /abel/intro/
-      - title: "Setting up a project"
-        url: /abel/project/
       - title: "Trimming"
         url: /resources/trimming/
+
 
