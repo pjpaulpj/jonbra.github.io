@@ -32,7 +32,7 @@ abel:
   - title: Working with Abel
     children: 
       - title: "Introduction"
-        url: /abel/intro/
+        url: /abel/
       - title: "Setting up a project"
         url: /abel/project/
 
