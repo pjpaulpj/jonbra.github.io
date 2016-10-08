@@ -8,7 +8,6 @@ sidebar:
 
 {% include base_path %}
 
-PAGE UNDER DEVELOPMENT 
 
 Here I will share some of the scripts we are using in our group for running analyses on the Abel compute cluster at the University of Oslo.
 
