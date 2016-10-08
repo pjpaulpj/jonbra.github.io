@@ -26,6 +26,8 @@ resources:
 #        url: /resources/intro/
       - title: "Setting up a project"
         url: /resources/setting-up-project/
+      - title: "FastQC"
+        url: /resources/fastqc/
       - title: "Quality trimming"
         url: /resources/trimming/
 
