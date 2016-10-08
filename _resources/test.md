@@ -1,6 +1,6 @@
 ---
 title: "Test"
-permalink: /resources/
+permalink: /resources/test/
 excerpt: "Test"
 ---
 
