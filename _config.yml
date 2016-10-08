@@ -167,6 +167,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  abel:
+    output: true
+    permalink: /:collection/:path/
   resources:
     output: true
     permalink: /:collection/:path/
@@ -205,6 +208,17 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _abel
+  - scope:
+      path: ""
+      type: abel
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
+      sidebar:
+        nav: "abel"
   # _resources
   - scope:
       path: ""
