@@ -4,6 +4,7 @@ permalink: /abel/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
 sidebar:
   nav: "resources"
+comments: true
 ---
 
 {% include base_path %}
