@@ -1,7 +1,9 @@
 ---
 title: "Intro"
-permalink: /resources/intro/
+permalink: /abel/intro/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
+sidebar:
+  nav: "abel"
 ---
 
 {% include base_path %}
