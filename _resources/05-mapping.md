@@ -18,8 +18,8 @@ do
 cat > yourpathtoScriptsDirectory/tophat_${SAMPLE_ID}.slurm <<EOF
 #!/bin/sh
 #SBATCH --job-name=tophat
-#SBATCH --account=uio
-#SBATCH --time=100:00:00
+#SBATCH --account=uio ## run command projects and see which projects you have access to
+#SBATCH --time=20:00:00
 #SBATCH --mem-per-cpu=16G
 #SBATCH --output=slurm-%j.base
 
@@ -32,8 +32,10 @@ module load tophat/2.0.14
 module load bowtie2
 module load samtools
 
+# --library-type, -r and --mate-std-dev 118 needs to be adapted to your data, but are also not required options
 tophat -G yourpathtoGenome/gff_or_gtf_file.gff -p 8 --library-type fr-firststrand -r 55 --mate-std-dev 118 -o ../Analyses/Mapping/Tophat/${SAMPLE_ID} yourpathtoGenome/bowtie2_index_base_name ../SequenceData/TrimmedSeqs/trimmed_${SAMPLE_ID}_R1_001.fastq.gz ../SequenceData/TrimmedSeqs/trimmed_${SAMPLE_ID}_R2_001.fastq.gz
 
+# Move mapping files from subdirectories, rename and collect under Tophat directory
 mv ../Analyses/Mapping/Tophat/${SAMPLE_ID}/accepted_hits.bam ../Analyses/Mapping/Tophat/${SAMPLE_ID}.bam
 EOF
 
