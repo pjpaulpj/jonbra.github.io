@@ -30,5 +30,7 @@ resources:
         url: /resources/fastqc/
       - title: "Quality trimming"
         url: /resources/trimming/
+      - title: "Mapping reads to reference genome"
+        url: /resources/mapping/
 
 
