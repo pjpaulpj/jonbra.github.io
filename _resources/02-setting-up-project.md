@@ -4,7 +4,7 @@ permalink: /resources/setting-up-project/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
 ---
 
-A lot of this is taken from the book: _Bioinformatics Data Skills_ by Vince Buffalo 2015 (This book is recommended when you get more into bioinformatics).
+A lot of this is taken from the book: [_Bioinformatics Data Skills_](http://shop.oreilly.com/product/0636920030157.do) by Vince Buffalo 2015 (This book is recommended when you get more into bioinformatics).
 
 ### What is a project?
 It can sometimes be a little hard to know when a new project starts and when you are just continuing an old one. Usually I think of a master thesis or a publication as one single project.
