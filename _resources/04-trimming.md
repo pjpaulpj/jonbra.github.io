@@ -2,6 +2,11 @@
 title: "Quality trimming and removing adaptors"
 permalink: /resources/trimming/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
+tags:
+  - unix
+  - trimming
+categories:
+  - abel
 ---
 I will add a few words on the Illumina quality scores and trimming of sequencing adapters here.
 
