@@ -2,6 +2,10 @@
 title: "Checking sequence quality using FastQC"
 permalink: /resources/fastqc/
 excerpt: "How to run FastQC on your sequence data"
+tags:
+  - unix
+categories:
+  - abel
 ---
 
 ### Quality check using FastQC
