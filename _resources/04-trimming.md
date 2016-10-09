@@ -42,7 +42,7 @@ source /cluster/bin/jobsetup
 module purge   # clear any inherited modules
 set -o errexit
 #do the trimming
-java -jar ~/Trimmomatic-0.35/trimmomatic-0.35.jar PE -phred33 -threads 8 ../SequenceData/RawSeqs/$SAMPLE_ID_R1 ../SequenceData/RawSeqs/$SAMPLE_ID_R2 ../Analyses/Trimmomatic/$NEWTRIMFILE_R1 ../Analyses/Trimmomatic/$SE_TRIMFILE_R1 ../Analyses/Trimmomatic/$NEWTRIMFILE_R2 ../Analyses/Trimmomatic/$SE_TRIMFILE_R2 ILLUMINACLIP:/fullpathtotrimmomaticinstallation/Trimmomatic-0.35/adapters/TruSeq3-SE.fa:2:28:10 LEADING:28 TRAILING:28 SLIDINGWINDOW:4:28 MINLEN:36
+java -jar ~/Trimmomatic-0.35/trimmomatic-0.35.jar PE -phred33 -threads 8 ../SequenceData/RawSeqs/$SAMPLE_ID_R1 ../SequenceData/RawSeqs/$SAMPLE_ID_R2 ../SequenceData/TrimmedSeqs/$NEWTRIMFILE_R1 ../SequenceData/TrimmedSeqs/$SE_TRIMFILE_R1 ../SequenceData/TrimmedSeqs/$NEWTRIMFILE_R2 ../SequenceData/TrimmedSeqs/$SE_TRIMFILE_R2 ILLUMINACLIP:/fullpathtotrimmomaticinstallation/Trimmomatic-0.35/adapters/TruSeq3-SE.fa:2:28:10 LEADING:28 TRAILING:28 SLIDINGWINDOW:4:28 MINLEN:36
 EOF
 
 sbatch yourpathtoScriptsDirectory/trimmomatic_${SAMPLE_ID_R1}.slurm
