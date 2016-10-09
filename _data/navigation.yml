@@ -43,3 +43,9 @@ resources:
       - title: "Mapping to de novo transcriptome"
         url: /resources/de-novo-mapping/
 
+  - title: Expression counts
+    children:         
+      - title: "Using HTSeq"
+        url: /resources/htseq/
+
+
