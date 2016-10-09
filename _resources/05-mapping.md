@@ -9,7 +9,6 @@ categories:
   - abel
 ---
 
-NB! Not all paths are correct
 
 ```
 #!/bin/bash
