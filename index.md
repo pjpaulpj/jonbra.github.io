@@ -13,8 +13,11 @@ Check out our latest work on [microRNAs in the unicellular ancestors of animals]
   - title: "Recent posts"
     excerpt: "
     - [Started adding scripts on RNA-Seq](https://jonbra.github.io/resources/intro/)
+    
     - [Svampene tar tilbake førsteplassen](https://jonbra.github.io/blog/svampene-tar-tilbake-f%C3%B8rsteplassen/)
+    
     + [Ribbemaneter med skjelett](https://jonbra.github.io/blog/ribbemaneter-med-skjelett/)
+    
     + [Hverken fugl eller fisk, eller sopp](https://jonbra.github.io/blog/hverken-fugl-eller-fisk/)
     "
     url: "/blog/"
