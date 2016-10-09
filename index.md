@@ -17,5 +17,7 @@ Check out our latest work on [microRNAs in the unicellular ancestors of animals]
 ---
 
 {% include feature_row %}
-
+<header>
+<link rel="stylesheet" href="{{ base_path }}/_sass/vendor/academicons-1.7.0/css/academicons.css"/>
+</header>
 
