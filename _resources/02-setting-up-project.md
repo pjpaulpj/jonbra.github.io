@@ -2,6 +2,10 @@
 title: "Setting up a project on Abel"
 permalink: /resources/setting-up-project/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
+tags:
+  - unix
+categories:
+  - abel
 ---
 
 A lot of this is taken from the book: [_Bioinformatics Data Skills_](http://shop.oreilly.com/product/0636920030157.do) by Vince Buffalo 2015 (This book is recommended when you get more into bioinformatics).
