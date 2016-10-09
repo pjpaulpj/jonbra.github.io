@@ -25,12 +25,21 @@ resources:
       - title: "Introduction"
         url: /resources/intro/
       - title: "Setting up a project"
-        url: /resources/setting-up-project/
+        url: /resources/setting-up-project/  
+              
+  - title: Quality assessment
+    children:         
       - title: "FastQC"
         url: /resources/fastqc/
       - title: "Quality trimming"
-        url: /resources/trimming/
-      - title: "Mapping reads to reference genome"
+        url: /resources/trimming/        
+        
+  - title: Reads mapping
+    children:         
+      - title: "With reference genome"
         url: /resources/mapping/
-
+      - title: "_de novo_ transcriptome assembly"
+        url: /resources/de-novo/
+      - title: "Mapping to _de novo_ transcriptome"
+        url: /resources/de-novo-mapping/
 
