@@ -36,10 +36,10 @@ resources:
         
   - title: Reads mapping
     children:         
-      - title: "With reference genome"
+      - title: "Mapping to reference genome"
         url: /resources/mapping/
-      - title: "_de novo_ transcriptome assembly"
+      - title: "de novo transcriptome assembly"
         url: /resources/de-novo/
-      - title: "Mapping to _de novo_ transcriptome"
+      - title: "Mapping to de novo transcriptome"
         url: /resources/de-novo-mapping/
 
