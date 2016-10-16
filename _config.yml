@@ -220,7 +220,7 @@ defaults:
       share: false
       comments: true
       sidebar:
-        nav: "resources"
+        nav: "abel"
 
 
 # Sass/SCSS

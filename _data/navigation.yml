@@ -19,7 +19,7 @@ main:
 #    url: https://jonbra.github.io/abel/
 
 # Abel navigation links
-resources:
+abel:
   - title: Working on Abel
     children: 
       - title: "Introduction"

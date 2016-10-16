@@ -3,7 +3,7 @@ title: "Working on the Abel compute cluster at UiO"
 permalink: /resources/intro/
 excerpt: "How to set up a bioinformatics project on Abel at UiO"
 sidebar:
-  nav: "resources"
+  nav: "abel"
 categories:
   - abel
 ---
