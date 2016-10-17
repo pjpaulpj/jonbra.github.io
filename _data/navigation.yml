@@ -18,7 +18,7 @@ main:
 #  - title: "Abel"
 #    url: https://jonbra.github.io/abel/
 
-# Abel navigation links
+# Abel sidebar links
 abel:
   - title: Working on Abel
     children: 
@@ -48,4 +48,18 @@ abel:
       - title: "Using HTSeq"
         url: /resources/htseq/
 
+# Resources sidebar links
+resources:
+  - title: Datasets
+    children: 
+      - title: "Sponge lincRNA data on Dryad"
+        url: http://datadryad.org/resource/doi:10.5061/dryad.v83fj
+  - title: RNA-Seq scripts
+    children:         
+      - title: "RNA-Seq analysis on the UiO compute cluster"
+        url: /resources/intro/
 
+
+
+
+        
