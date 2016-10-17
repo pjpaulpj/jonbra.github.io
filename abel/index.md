@@ -2,6 +2,8 @@
 title: "Resources"
 permalink: /abel/
 excerpt: "Resources"
+sidebar: 
+  nav: "resources"
 ---
 
 {% include base_path %}
